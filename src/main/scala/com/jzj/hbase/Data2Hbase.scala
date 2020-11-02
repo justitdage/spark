@@ -1,4 +1,4 @@
-package com.kaikeba.hbase
+package com.jzj.hbase
 
 import java.util
 

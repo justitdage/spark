@@ -1,4 +1,4 @@
-package com.kaikeba;
+package com.jzj;
 
 import org.apache.spark.SparkConf;
 import org.apache.spark.api.java.JavaPairRDD;

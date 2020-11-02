@@ -1,4 +1,4 @@
-package com.kaikeba.db
+package com.jzj.db
 
 import java.sql.{Connection, DriverManager, PreparedStatement}
 

@@ -1,4 +1,4 @@
-package com.kaikeba.count
+package com.jzj.count
 
 import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.rdd.RDD
